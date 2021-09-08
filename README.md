@@ -2,7 +2,10 @@
 
 ## Slides
 
+[Course Website](https://laurielbaker.github.io/DSCA_Intro-R/)
+
 [Intro R Part 1 Slides](/slides/IntroR_part1.html)
+
 [Intro R Part 2 Slides](/slides/IntroR_part2.html)
 
 ### Version 1.1
